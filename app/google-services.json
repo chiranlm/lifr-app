@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257878578098",
+    "firebase_url": "https://lift-app-6e5dd.firebaseio.com",
+    "project_id": "lift-app-6e5dd",
+    "storage_bucket": "lift-app-6e5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257878578098:android:61cda2d96ff84e97c0caab",
+        "android_client_info": {
+          "package_name": "com.chrian.lift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257878578098-08bln17hnmmkpmkffb3a1n701ulrmegf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chrian.lift",
+            "certificate_hash": "d59a0e58352332b73969aff38378f7aa301192eb"
+          }
+        },
+        {
+          "client_id": "257878578098-te3f8l30gahaoson4b2jbaqkfb1o4kh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRY64yGdyhi7gDmMUOrOEMS4YH93gRik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257878578098-te3f8l30gahaoson4b2jbaqkfb1o4kh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
